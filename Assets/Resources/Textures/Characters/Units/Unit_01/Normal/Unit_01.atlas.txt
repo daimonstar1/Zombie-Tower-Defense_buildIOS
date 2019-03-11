@@ -1,0 +1,97 @@
+
+Unit_01.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Gun
+  rotate: true
+  xy: 316, 15
+  size: 162, 80
+  orig: 162, 80
+  offset: 0, 0
+  index: -1
+arm
+  rotate: true
+  xy: 487, 12
+  size: 73, 52
+  orig: 73, 52
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 37
+  size: 156, 200
+  orig: 156, 200
+  offset: 0, 0
+  index: -1
+fire
+  rotate: false
+  xy: 398, 87
+  size: 99, 72
+  orig: 99, 72
+  offset: 0, 0
+  index: -1
+hand1
+  rotate: false
+  xy: 499, 92
+  size: 71, 58
+  orig: 71, 58
+  offset: 0, 0
+  index: -1
+hand2
+  rotate: false
+  xy: 428, 161
+  size: 119, 76
+  orig: 119, 76
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 160, 26
+  size: 151, 154
+  orig: 151, 154
+  offset: 0, 0
+  index: -1
+leg 2
+  rotate: true
+  xy: 549, 152
+  size: 85, 109
+  orig: 85, 109
+  offset: 0, 0
+  index: -1
+leg1
+  rotate: true
+  xy: 873, 154
+  size: 83, 100
+  orig: 83, 100
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 160, 179
+  size: 266, 58
+  orig: 266, 58
+  offset: 0, 0
+  index: -1
+upperarm
+  rotate: true
+  xy: 660, 144
+  size: 93, 106
+  orig: 93, 106
+  offset: 0, 0
+  index: -1
+upperleg 1
+  rotate: true
+  xy: 768, 151
+  size: 86, 103
+  orig: 86, 103
+  offset: 0, 0
+  index: -1
+upperleg 2
+  rotate: true
+  xy: 398, 2
+  size: 83, 87
+  orig: 83, 87
+  offset: 0, 0
+  index: -1

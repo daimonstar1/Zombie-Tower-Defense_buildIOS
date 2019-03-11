@@ -1,0 +1,55 @@
+
+Scientist.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 3
+  size: 156, 237
+  orig: 156, 237
+  offset: 0, 0
+  index: -1
+Hand 1
+  rotate: true
+  xy: 305, 143
+  size: 97, 178
+  orig: 97, 178
+  offset: 0, 0
+  index: -1
+Hand 2
+  rotate: true
+  xy: 160, 2
+  size: 94, 155
+  orig: 94, 155
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 160, 98
+  size: 143, 142
+  orig: 143, 142
+  offset: 0, 0
+  index: -1
+Leg 1
+  rotate: true
+  xy: 692, 170
+  size: 70, 98
+  orig: 70, 98
+  offset: 0, 0
+  index: -1
+Leg 2
+  rotate: true
+  xy: 792, 165
+  size: 75, 94
+  orig: 75, 94
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 485, 181
+  size: 205, 59
+  orig: 205, 59
+  offset: 0, 0
+  index: -1

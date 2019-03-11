@@ -1,0 +1,132 @@
+
+Unit_04.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 262
+  size: 360, 232
+  orig: 360, 232
+  offset: 0, 0
+  index: -1
+Gun
+  rotate: false
+  xy: 2, 123
+  size: 420, 137
+  orig: 420, 137
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 424, 167
+  size: 169, 167
+  orig: 169, 167
+  offset: 0, 0
+  index: -1
+Head copy
+  rotate: false
+  xy: 595, 170
+  size: 137, 164
+  orig: 137, 164
+  offset: 0, 0
+  index: -1
+bullet
+  rotate: false
+  xy: 2, 2
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+fire
+  rotate: false
+  xy: 778, 241
+  size: 99, 72
+  orig: 99, 72
+  offset: 0, 0
+  index: -1
+gun2
+  rotate: false
+  xy: 364, 336
+  size: 412, 158
+  orig: 412, 158
+  offset: 0, 0
+  index: -1
+hand 1
+  rotate: false
+  xy: 175, 22
+  size: 141, 99
+  orig: 141, 99
+  offset: 0, 0
+  index: -1
+hand 1 red
+  rotate: false
+  xy: 424, 119
+  size: 78, 46
+  orig: 78, 46
+  offset: 0, 0
+  index: -1
+hand 1 up
+  rotate: false
+  xy: 504, 112
+  size: 77, 53
+  orig: 77, 53
+  offset: 0, 0
+  index: -1
+hand 1a
+  rotate: false
+  xy: 318, 24
+  size: 97, 97
+  orig: 97, 97
+  offset: 0, 0
+  index: -1
+hand 2
+  rotate: true
+  xy: 2, 25
+  size: 96, 171
+  orig: 96, 171
+  offset: 0, 0
+  index: -1
+hand 2 finger
+  rotate: false
+  xy: 364, 296
+  size: 51, 38
+  orig: 51, 38
+  offset: 0, 0
+  index: -1
+hand 2 up
+  rotate: false
+  xy: 417, 40
+  size: 40, 77
+  orig: 40, 77
+  offset: 0, 0
+  index: -1
+leg 1
+  rotate: true
+  xy: 778, 315
+  size: 110, 137
+  orig: 110, 137
+  offset: 0, 0
+  index: -1
+leg 2
+  rotate: false
+  xy: 917, 300
+  size: 94, 125
+  orig: 94, 125
+  offset: 0, 0
+  index: -1
+pant
+  rotate: true
+  xy: 734, 207
+  size: 127, 42
+  orig: 127, 42
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 778, 427
+  size: 244, 67
+  orig: 244, 67
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,55 @@
+
+Enemy_06.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 2
+  size: 323, 459
+  orig: 323, 459
+  offset: 0, 0
+  index: -1
+Hand 1
+  rotate: true
+  xy: 552, 346
+  size: 115, 326
+  orig: 115, 326
+  offset: 0, 0
+  index: -1
+Hand 2
+  rotate: false
+  xy: 327, 152
+  size: 223, 309
+  orig: 223, 309
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 552, 154
+  size: 105, 134
+  orig: 105, 134
+  offset: 0, 0
+  index: -1
+Leg 1
+  rotate: true
+  xy: 327, 37
+  size: 113, 177
+  orig: 113, 177
+  offset: 0, 0
+  index: -1
+Leg 2
+  rotate: true
+  xy: 880, 346
+  size: 115, 134
+  orig: 115, 134
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 552, 261
+  size: 314, 83
+  orig: 314, 83
+  offset: 0, 0
+  index: -1

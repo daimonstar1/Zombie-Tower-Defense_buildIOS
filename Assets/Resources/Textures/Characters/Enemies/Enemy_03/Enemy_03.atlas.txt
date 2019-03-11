@@ -1,0 +1,76 @@
+
+Enemy_03.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Axe
+  rotate: false
+  xy: 547, 113
+  size: 168, 127
+  orig: 168, 127
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 2, 22
+  size: 214, 218
+  orig: 214, 218
+  offset: 0, 0
+  index: -1
+Body2
+  rotate: false
+  xy: 218, 22
+  size: 214, 218
+  orig: 214, 218
+  offset: 0, 0
+  index: -1
+Hand 2
+  rotate: true
+  xy: 547, 37
+  size: 74, 165
+  orig: 74, 165
+  offset: 0, 0
+  index: -1
+Layer 1
+  rotate: false
+  xy: 434, 42
+  size: 111, 198
+  orig: 111, 198
+  offset: 0, 0
+  index: -1
+Layer 2
+  rotate: false
+  xy: 717, 78
+  size: 204, 45
+  orig: 204, 45
+  offset: 0, 0
+  index: -1
+Leg 1
+  rotate: true
+  xy: 714, 21
+  size: 55, 139
+  orig: 55, 139
+  offset: 0, 0
+  index: -1
+Leg 2
+  rotate: false
+  xy: 923, 2
+  size: 83, 121
+  orig: 83, 121
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 717, 125
+  size: 115, 141
+  orig: 115, 141
+  offset: 0, 0
+  index: -1
+head2
+  rotate: true
+  xy: 860, 125
+  size: 115, 141
+  orig: 115, 141
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,146 @@
+
+Unit_05.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Gun
+  rotate: false
+  xy: 2, 207
+  size: 406, 148
+  orig: 406, 148
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 216, 39
+  size: 165, 166
+  orig: 165, 166
+  offset: 0, 0
+  index: -1
+Layer 13
+  rotate: false
+  xy: 383, 78
+  size: 94, 85
+  orig: 94, 85
+  offset: 0, 0
+  index: -1
+Layer 14
+  rotate: false
+  xy: 2, 10
+  size: 212, 195
+  orig: 212, 195
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 452, 277
+  size: 233, 260
+  orig: 233, 260
+  offset: 0, 0
+  index: -1
+fire
+  rotate: true
+  xy: 479, 64
+  size: 99, 72
+  orig: 99, 72
+  offset: 0, 0
+  index: -1
+gun2
+  rotate: false
+  xy: 2, 357
+  size: 448, 153
+  orig: 448, 153
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 479, 2
+  size: 69, 60
+  orig: 69, 60
+  offset: 0, 0
+  index: -1
+hand2
+  rotate: false
+  xy: 563, 121
+  size: 78, 62
+  orig: 78, 62
+  offset: 0, 0
+  index: -1
+handpad
+  rotate: true
+  xy: 982, 455
+  size: 55, 30
+  orig: 55, 30
+  offset: 0, 0
+  index: -1
+head2
+  rotate: true
+  xy: 714, 280
+  size: 153, 166
+  orig: 153, 166
+  offset: 0, 0
+  index: -1
+leg1
+  rotate: true
+  xy: 563, 185
+  size: 90, 142
+  orig: 90, 142
+  offset: 0, 0
+  index: -1
+leg1pad
+  rotate: true
+  xy: 410, 282
+  size: 73, 40
+  orig: 73, 40
+  offset: 0, 0
+  index: -1
+leg2
+  rotate: true
+  xy: 410, 165
+  size: 110, 151
+  orig: 110, 151
+  offset: 0, 0
+  index: -1
+leg2pad
+  rotate: false
+  xy: 553, 62
+  size: 77, 57
+  orig: 77, 57
+  offset: 0, 0
+  index: -1
+lowerhand
+  rotate: true
+  xy: 383, 10
+  size: 66, 94
+  orig: 66, 94
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 714, 435
+  size: 266, 75
+  orig: 266, 75
+  offset: 0, 0
+  index: -1
+upperhand
+  rotate: true
+  xy: 882, 266
+  size: 82, 139
+  orig: 82, 139
+  offset: 0, 0
+  index: -1
+upperhand2
+  rotate: true
+  xy: 882, 350
+  size: 83, 140
+  orig: 83, 140
+  offset: 0, 0
+  index: -1
+upperhand2pad
+  rotate: true
+  xy: 550, 4
+  size: 56, 69
+  orig: 56, 69
+  offset: 0, 0
+  index: -1

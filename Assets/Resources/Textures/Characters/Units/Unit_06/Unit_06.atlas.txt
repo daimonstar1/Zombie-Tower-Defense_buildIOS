@@ -1,0 +1,167 @@
+
+Unit_06.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Gun
+  rotate: false
+  xy: 2, 269
+  size: 393, 115
+  orig: 393, 115
+  offset: 0, 0
+  index: -1
+Gun2
+  rotate: false
+  xy: 2, 386
+  size: 442, 123
+  orig: 442, 123
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 889, 340
+  size: 120, 169
+  orig: 120, 169
+  offset: 0, 0
+  index: -1
+Head2
+  rotate: true
+  xy: 714, 383
+  size: 126, 173
+  orig: 126, 173
+  offset: 0, 0
+  index: -1
+Leg  1
+  rotate: false
+  xy: 401, 132
+  size: 110, 140
+  orig: 110, 140
+  offset: 0, 0
+  index: -1
+Leg 2
+  rotate: true
+  xy: 397, 274
+  size: 81, 127
+  orig: 81, 127
+  offset: 0, 0
+  index: -1
+Tank
+  rotate: false
+  xy: 2, 64
+  size: 260, 203
+  orig: 260, 203
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 264, 93
+  size: 135, 174
+  orig: 135, 174
+  offset: 0, 0
+  index: -1
+bottom
+  rotate: false
+  xy: 446, 357
+  size: 200, 92
+  orig: 200, 92
+  offset: 0, 0
+  index: -1
+chain
+  rotate: false
+  xy: 513, 134
+  size: 60, 25
+  orig: 60, 25
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 165, 8
+  size: 55, 54
+  orig: 55, 54
+  offset: 0, 0
+  index: -1
+hand2lower
+  rotate: false
+  xy: 357, 8
+  size: 73, 83
+  orig: 73, 83
+  offset: 0, 0
+  index: -1
+hand2upper
+  rotate: true
+  xy: 2, 7
+  size: 55, 97
+  orig: 55, 97
+  offset: 0, 0
+  index: -1
+handlower1
+  rotate: false
+  xy: 648, 387
+  size: 59, 62
+  orig: 59, 62
+  offset: 0, 0
+  index: -1
+handlower2
+  rotate: true
+  xy: 101, 3
+  size: 59, 62
+  orig: 59, 62
+  offset: 0, 0
+  index: -1
+handpad
+  rotate: false
+  xy: 648, 334
+  size: 56, 51
+  orig: 56, 51
+  offset: 0, 0
+  index: -1
+handupper1
+  rotate: false
+  xy: 606, 173
+  size: 82, 98
+  orig: 82, 98
+  offset: 0, 0
+  index: -1
+handupper2
+  rotate: true
+  xy: 526, 273
+  size: 82, 118
+  orig: 82, 118
+  offset: 0, 0
+  index: -1
+shadow 1
+  rotate: false
+  xy: 446, 451
+  size: 266, 58
+  orig: 266, 58
+  offset: 0, 0
+  index: -1
+shadow 2
+  rotate: false
+  xy: 401, 98
+  size: 97, 32
+  orig: 97, 32
+  offset: 0, 0
+  index: -1
+ta
+  rotate: true
+  xy: 264, 2
+  size: 89, 91
+  orig: 89, 91
+  offset: 0, 0
+  index: -1
+ta2
+  rotate: false
+  xy: 513, 161
+  size: 91, 110
+  orig: 91, 110
+  offset: 0, 0
+  index: -1
+tattoo
+  rotate: false
+  xy: 432, 17
+  size: 69, 79
+  orig: 69, 79
+  offset: 0, 0
+  index: -1

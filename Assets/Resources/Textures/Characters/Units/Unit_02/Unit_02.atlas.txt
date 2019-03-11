@@ -1,0 +1,153 @@
+
+Unit_02.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Head
+  rotate: false
+  xy: 814, 280
+  size: 157, 158
+  orig: 157, 158
+  offset: 0, 0
+  index: -1
+Shield
+  rotate: false
+  xy: 243, 242
+  size: 189, 256
+  orig: 189, 256
+  offset: 0, 0
+  index: -1
+Shield2
+  rotate: false
+  xy: 2, 211
+  size: 239, 287
+  orig: 239, 287
+  offset: 0, 0
+  index: -1
+bat
+  rotate: false
+  xy: 434, 333
+  size: 213, 165
+  orig: 213, 165
+  offset: 0, 0
+  index: -1
+bat2
+  rotate: false
+  xy: 649, 281
+  size: 163, 157
+  orig: 163, 157
+  offset: 0, 0
+  index: -1
+binhcuuhoa
+  rotate: true
+  xy: 243, 2
+  size: 68, 106
+  orig: 68, 106
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 29
+  size: 180, 239
+  orig: 180, 239
+  offset: 0, 0
+  index: -1
+bodypad
+  rotate: false
+  xy: 575, 111
+  size: 100, 114
+  orig: 100, 114
+  offset: 0, 0
+  index: -1
+hand
+  rotate: true
+  xy: 973, 380
+  size: 61, 49
+  orig: 61, 49
+  offset: 0, 0
+  index: -1
+hand copy
+  rotate: false
+  xy: 677, 120
+  size: 56, 53
+  orig: 56, 53
+  offset: 0, 0
+  index: -1
+handpad
+  rotate: true
+  xy: 917, 440
+  size: 58, 52
+  orig: 58, 52
+  offset: 0, 0
+  index: -1
+handpad2
+  rotate: false
+  xy: 971, 443
+  size: 51, 55
+  orig: 51, 55
+  offset: 0, 0
+  index: -1
+head2
+  rotate: false
+  xy: 243, 72
+  size: 157, 168
+  orig: 157, 168
+  offset: 0, 0
+  index: -1
+leg1
+  rotate: true
+  xy: 434, 233
+  size: 98, 141
+  orig: 98, 141
+  offset: 0, 0
+  index: -1
+leg2
+  rotate: false
+  xy: 402, 91
+  size: 84, 140
+  orig: 84, 140
+  offset: 0, 0
+  index: -1
+light
+  rotate: true
+  xy: 488, 110
+  size: 121, 85
+  orig: 121, 85
+  offset: 0, 0
+  index: -1
+lowerhand
+  rotate: false
+  xy: 749, 197
+  size: 56, 82
+  orig: 56, 82
+  offset: 0, 0
+  index: -1
+lowerhand copy
+  rotate: false
+  xy: 807, 199
+  size: 75, 79
+  orig: 75, 79
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 649, 440
+  size: 266, 58
+  orig: 266, 58
+  offset: 0, 0
+  index: -1
+upperhand
+  rotate: false
+  xy: 577, 227
+  size: 70, 104
+  orig: 70, 104
+  offset: 0, 0
+  index: -1
+upperhand copy
+  rotate: false
+  xy: 677, 175
+  size: 70, 104
+  orig: 70, 104
+  offset: 0, 0
+  index: -1

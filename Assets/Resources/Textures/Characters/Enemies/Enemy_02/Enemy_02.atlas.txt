@@ -1,0 +1,76 @@
+
+Enemy_02.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 148
+  size: 267, 307
+  orig: 267, 307
+  offset: 0, 0
+  index: -1
+Chain saw
+  rotate: false
+  xy: 271, 294
+  size: 382, 161
+  orig: 382, 161
+  offset: 0, 0
+  index: -1
+Hand 2
+  rotate: true
+  xy: 271, 190
+  size: 102, 231
+  orig: 102, 231
+  offset: 0, 0
+  index: -1
+Leg 1
+  rotate: true
+  xy: 255, 16
+  size: 72, 198
+  orig: 72, 198
+  offset: 0, 0
+  index: -1
+Leg 2
+  rotate: false
+  xy: 663, 135
+  size: 119, 177
+  orig: 119, 177
+  offset: 0, 0
+  index: -1
+hand 1
+  rotate: true
+  xy: 2, 2
+  size: 144, 251
+  orig: 144, 251
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 655, 314
+  size: 141, 191
+  orig: 141, 191
+  offset: 0, 0
+  index: -1
+saw1
+  rotate: true
+  xy: 504, 72
+  size: 220, 100
+  orig: 220, 100
+  offset: 0, 0
+  index: -1
+saw2
+  rotate: false
+  xy: 271, 90
+  size: 231, 98
+  orig: 231, 98
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 606, 18
+  size: 274, 55
+  orig: 274, 55
+  offset: 0, 0
+  index: -1

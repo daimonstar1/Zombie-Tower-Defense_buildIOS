@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "114670949508",
+    "firebase_url": "https://humanvszombiesgobigame.firebaseio.com",
+    "project_id": "humanvszombiesgobigame",
+    "storage_bucket": "humanvszombiesgobigame.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114670949508:android:c6481623b2277009",
+        "android_client_info": {
+          "package_name": "com.gobigame.humanandzombie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114670949508-hua0qm0voug1dkl64173tcph4ll4987a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gobigame.humanandzombie",
+            "certificate_hash": "ff78d24fd0ee3097e2f62b293815cbbea4f854af"
+          }
+        },
+        {
+          "client_id": "114670949508-9vdijdel68imv9tqcmimn3kua5litmvp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAQmb_k3cTySaMeMzKopknE1gGjk4XIXw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114670949508-9vdijdel68imv9tqcmimn3kua5litmvp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

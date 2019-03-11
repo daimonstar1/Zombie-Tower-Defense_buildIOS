@@ -1,0 +1,55 @@
+
+Enemy_09.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 99
+  size: 232, 373
+  orig: 232, 373
+  offset: 0, 0
+  index: -1
+Hand 1
+  rotate: true
+  xy: 236, 298
+  size: 174, 412
+  orig: 174, 412
+  offset: 0, 0
+  index: -1
+Hand 2
+  rotate: true
+  xy: 650, 308
+  size: 54, 153
+  orig: 54, 153
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 236, 118
+  size: 104, 134
+  orig: 104, 134
+  offset: 0, 0
+  index: -1
+Leg 1
+  rotate: true
+  xy: 2, 2
+  size: 95, 205
+  orig: 95, 205
+  offset: 0, 0
+  index: -1
+Leg 2
+  rotate: true
+  xy: 650, 364
+  size: 108, 187
+  orig: 108, 187
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 236, 224
+  size: 260, 72
+  orig: 260, 72
+  offset: 0, 0
+  index: -1

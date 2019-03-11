@@ -1,0 +1,62 @@
+
+Enemy_05.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 227
+  size: 290, 274
+  orig: 290, 274
+  offset: 0, 0
+  index: -1
+Hand 1
+  rotate: true
+  xy: 149, 45
+  size: 110, 159
+  orig: 110, 159
+  offset: 0, 0
+  index: -1
+Hand 2
+  rotate: false
+  xy: 2, 2
+  size: 145, 153
+  orig: 145, 153
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 294, 336
+  size: 106, 165
+  orig: 106, 165
+  offset: 0, 0
+  index: -1
+Leg 1
+  rotate: true
+  xy: 294, 260
+  size: 74, 185
+  orig: 74, 185
+  offset: 0, 0
+  index: -1
+Leg 2
+  rotate: false
+  xy: 402, 338
+  size: 105, 163
+  orig: 105, 163
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 2, 157
+  size: 305, 68
+  orig: 305, 68
+  offset: 0, 0
+  index: -1
+Tongue
+  rotate: false
+  xy: 309, 200
+  size: 73, 58
+  orig: 73, 58
+  offset: 0, 0
+  index: -1

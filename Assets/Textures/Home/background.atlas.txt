@@ -1,0 +1,89 @@
+
+background.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back
+  rotate: false
+  xy: 2, 990
+  size: 1402, 1046
+  orig: 1402, 1046
+  offset: 0, 0
+  index: -1
+brick
+  rotate: true
+  xy: 1406, 634
+  size: 1402, 243
+  orig: 1402, 243
+  offset: 0, 0
+  index: -1
+bullet
+  rotate: false
+  xy: 1406, 621
+  size: 30, 11
+  orig: 30, 11
+  offset: 0, 0
+  index: -1
+char 2
+  rotate: true
+  xy: 2, 2
+  size: 591, 942
+  orig: 591, 942
+  offset: 0, 0
+  index: -1
+char 3
+  rotate: false
+  xy: 946, 4
+  size: 580, 589
+  orig: 580, 589
+  offset: 0, 0
+  index: -1
+fire
+  rotate: false
+  xy: 1651, 1735
+  size: 315, 301
+  orig: 315, 301
+  offset: 0, 0
+  index: -1
+light 2
+  rotate: false
+  xy: 1528, 47
+  size: 409, 585
+  orig: 409, 585
+  offset: 0, 0
+  index: -1
+smoke
+  rotate: false
+  xy: 2, 595
+  size: 1402, 393
+  orig: 1402, 393
+  offset: 0, 0
+  index: -1
+sparkle
+  rotate: false
+  xy: 1651, 1591
+  size: 104, 142
+  orig: 104, 142
+  offset: 0, 0
+  index: -1
+
+background2.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+char 1
+  rotate: false
+  xy: 2, 2
+  size: 728, 761
+  orig: 728, 761
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 732, 2
+  size: 449, 761
+  orig: 449, 761
+  offset: 0, 0
+  index: -1
